@@ -1,4 +1,4 @@
-package br.com.gabrie.estudos.kafkaspringbootestudos.configuration;
+package br.com.gabriel.estudos.kafkaspringbootestudos.configuration;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
